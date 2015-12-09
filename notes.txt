@@ -1,3 +1,4 @@
->>get add .
->>get add -u
->>get add -A
+>>git add .
+>>git add -u
+>>git add -A
+>>git push
